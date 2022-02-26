@@ -26,7 +26,7 @@
 		Name: <input type="text" name="userName">
 		Title: <input type="text" name="title">
 		Details: <input type="text" name="description">
-		<input type="submit" value="Call Servlet"/>
+		<input type="submit" value="Call Servlet" name="submit"/>
 	</form>
 </body>
 </html>
